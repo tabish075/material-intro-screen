@@ -391,7 +391,7 @@ public abstract class MaterialIntroActivity extends AppCompatActivity {
 
     private void performFinish() {
         onFinish();
-        finish();
+        //finish();
     }
 
     private void moveBack() {
